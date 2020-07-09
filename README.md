@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Dashboard java – 1](https://user-images.githubusercontent.com/53647573/81779583-9df12d00-9512-11ea-993d-f80727bbe77f.png)
 <!--
 **RankJay/RankJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
