@@ -1,5 +1,5 @@
 
-[![](https://user-images.githubusercontent.com/53647573/86040280-61957400-ba61-11ea-9665-cc706f614155.png)](https://youtu.be/oIIuMoWns4w)
+[![Landing Side](https://user-images.githubusercontent.com/53647573/90053993-db737b00-dcf8-11ea-8aaf-1005fdd6dcf4.png)](https://youtu.be/oIIuMoWns4w)
 <!--
 **RankJay/RankJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
