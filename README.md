@@ -1,4 +1,5 @@
-[![Social banner for RankJay](https://github.com/RankJay/RankJay/raw/master/Github_Public_Profile.svg)](https://rankjay.github.io/Portfolio_Website_V2/)
+![image](https://github.com/user-attachments/assets/202f16db-a31e-4012-b660-a83c8bd5bcde)
+
 <!--
 **RankJay/RankJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
